@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        include_once './care.php';
+        include_once './Care.php';
         $carre = new care(100, 'orange');
         $carre->superficie();
         $carre->afficher();

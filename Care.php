@@ -11,7 +11,7 @@
  *
  * @author arethens
  */
-class care {
+class Care {
     private $taille;
     private $couleur;
     
